@@ -16,7 +16,9 @@ By controlling the data-generating process through simulation, this project inve
 ---
 
 ## Author
-* **Ammar Gharaf** (D03000248)
+* Ammar Gharaf
+* **Under Supervision of :** Prof, Roberta Siciliano
+
 
 *Department of Mathematics / Statistical Learning and Data Analysis*  
 **Università degli Studi di Napoli Federico II**
